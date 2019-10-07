@@ -1,0 +1,2093 @@
+2019-10-05 23:30:44 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/customers in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('customers', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/customers', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-05 23:30:44 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '39866'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/site/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/site/customers'
+    'PHP_SELF' => '/index.php/site/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318244.0921
+    'REQUEST_TIME' => 1570318244
+]
+2019-10-05 23:30:56 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/customers in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('customers', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/customers', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-05 23:30:56 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '39882'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/site/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/site/customers'
+    'PHP_SELF' => '/index.php/site/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570318256.0959
+    'REQUEST_TIME' => 1570318256
+]
+2019-10-05 23:31:00 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'app\controllers\CustomersController' in file: /home/luiz/dev/devNinja/controllers/CustomersController.php. Namespace missing? in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(637): class_exists('app\\controllers...')
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:31:00 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '39896'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318260.7455
+    'REQUEST_TIME' => 1570318260
+]
+2019-10-05 23:31:33 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'app\controllers\CustomersController' in file: /home/luiz/dev/devNinja/controllers/CustomersController.php. Namespace missing? in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(637): class_exists('app\\controllers...')
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:31:33 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '39900'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570318293.3423
+    'REQUEST_TIME' => 1570318293
+]
+2019-10-05 23:31:34 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'app\controllers\CustomersController' in file: /home/luiz/dev/devNinja/controllers/CustomersController.php. Namespace missing? in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(637): class_exists('app\\controllers...')
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:31:34 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '39902'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570318294.0064
+    'REQUEST_TIME' => 1570318294
+]
+2019-10-05 23:36:31 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\UnknownClassException] yii\base\UnknownClassException: Unable to find 'app\controllers\CustomersController' in file: /home/luiz/dev/devNinja/controllers/CustomersController.php. Namespace missing? in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php:296
+Stack trace:
+#0 [internal function]: yii\BaseYii::autoload('app\\controllers...')
+#1 [internal function]: spl_autoload_call('app\\controllers...')
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(637): class_exists('app\\controllers...')
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:36:31 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '60844'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318591.0085
+    'REQUEST_TIME' => 1570318591
+]
+2019-10-05 23:40:56 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][Error] Error: Class 'app\models\Customers' not found in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php:114
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php(82): yii\rest\IndexAction->prepareDataProvider()
+#1 [internal function]: yii\rest\IndexAction->run()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:40:56 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32904'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318856.6955
+    'REQUEST_TIME' => 1570318856
+]
+2019-10-05 23:41:07 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][Error] Error: Class 'app\models\Customers' not found in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php:114
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php(82): yii\rest\IndexAction->prepareDataProvider()
+#1 [internal function]: yii\rest\IndexAction->run()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:41:07 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32906'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318867.707
+    'REQUEST_TIME' => 1570318867
+]
+2019-10-05 23:41:08 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][Error] Error: Class 'app\models\Customers' not found in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php:114
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php(82): yii\rest\IndexAction->prepareDataProvider()
+#1 [internal function]: yii\rest\IndexAction->run()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:41:08 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32908'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318868.8338
+    'REQUEST_TIME' => 1570318868
+]
+2019-10-05 23:41:09 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/customers in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('customers', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('site/customers', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-05 23:41:09 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32910'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/site/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/site/customers'
+    'PHP_SELF' => '/index.php/site/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318869.6464
+    'REQUEST_TIME' => 1570318869
+]
+2019-10-05 23:41:52 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][Error] Error: Class 'app\models\Customers' not found in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php:114
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/IndexAction.php(82): yii\rest\IndexAction->prepareDataProvider()
+#1 [internal function]: yii\rest\IndexAction->run()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Action.php(94): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\Action->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('index', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-05 23:41:52 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32948'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570318912.7373
+    'REQUEST_TIME' => 1570318912
+]
+2019-10-05 23:42:04 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-05 23:42:04 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32950'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570318924.7586
+    'REQUEST_TIME' => 1570318924
+]
+2019-10-05 23:43:17 [127.0.0.1][-][-][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-05 23:43:17 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '32964'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'curl/7.58.0'
+    'HTTP_ACCEPT' => 'application/json'
+    'REQUEST_TIME_FLOAT' => 1570318997.3684
+    'REQUEST_TIME' => 1570318997
+]
+2019-10-06 17:45:41 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('index')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/index', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-06 17:45:41 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '34766'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers'
+    'PHP_SELF' => '/index.php/customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570383941.4752
+    'REQUEST_TIME' => 1570383941
+]
+2019-10-06 17:46:31 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php:698
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(698): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(624): yii\db\Connection->createPdoInstance()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1015): yii\db\Connection->open()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1002): yii\db\Connection->getMasterPdo()
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(253): yii\db\Connection->getSlavePdo()
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1153): yii\db\Command->prepare(true)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(442): yii\db\Command->queryInternal('fetchAll', 7)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/mysql/Schema.php(114): yii\db\Command->queryColumn()
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php(236): yii\db\mysql\Schema->findTableNames('')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/Generator.php(171): yii\db\Schema->getTableNames()
+#10 [internal function]: yii\gii\generators\model\Generator->yii\gii\generators\model\{closure}()
+#11 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/components/ActiveField.php(46): call_user_func(Object(Closure))
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\gii\components\ActiveField->init()
+#13 [internal function]: yii\base\BaseObject->__construct(Array)
+#14 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(384): ReflectionClass->newInstanceArgs(Array)
+#15 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\gii\\compone...', Array, Array)
+#16 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\gii\\compone...', Array, Array)
+#17 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/widgets/ActiveForm.php(334): yii\BaseYii::createObject(Array)
+#18 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/form.php(9): yii\widgets\ActiveForm->field(Object(yii\gii\generators\model\Generator), 'tableName')
+#19 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#20 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#21 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/views/default/view.php(43): yii\base\View->renderFile('/home/luiz/dev/...', Array)
+#22 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#23 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#24 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/luiz/dev/...', Array, Object(yii\gii\controllers\DefaultController))
+#25 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->render('view', Array, Object(yii\gii\controllers\DefaultController))
+#26 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(72): yii\base\Controller->render('view', Array)
+#27 [internal function]: yii\gii\controllers\DefaultController->actionView('model')
+#28 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#29 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#30 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#31 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#32 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#33 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#34 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [2002] No such file or directory in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php:635
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1015): yii\db\Connection->open()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1002): yii\db\Connection->getMasterPdo()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(253): yii\db\Connection->getSlavePdo()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1153): yii\db\Command->prepare(true)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(442): yii\db\Command->queryInternal('fetchAll', 7)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/mysql/Schema.php(114): yii\db\Command->queryColumn()
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php(236): yii\db\mysql\Schema->findTableNames('')
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/Generator.php(171): yii\db\Schema->getTableNames()
+#8 [internal function]: yii\gii\generators\model\Generator->yii\gii\generators\model\{closure}()
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/components/ActiveField.php(46): call_user_func(Object(Closure))
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\gii\components\ActiveField->init()
+#11 [internal function]: yii\base\BaseObject->__construct(Array)
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(384): ReflectionClass->newInstanceArgs(Array)
+#13 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\gii\\compone...', Array, Array)
+#14 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\gii\\compone...', Array, Array)
+#15 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/widgets/ActiveForm.php(334): yii\BaseYii::createObject(Array)
+#16 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/form.php(9): yii\widgets\ActiveForm->field(Object(yii\gii\generators\model\Generator), 'tableName')
+#17 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#18 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#19 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/views/default/view.php(43): yii\base\View->renderFile('/home/luiz/dev/...', Array)
+#20 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#21 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#22 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/luiz/dev/...', Array, Object(yii\gii\controllers\DefaultController))
+#23 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->render('view', Array, Object(yii\gii\controllers\DefaultController))
+#24 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(72): yii\base\Controller->render('view', Array)
+#25 [internal function]: yii\gii\controllers\DefaultController->actionView('model')
+#26 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#27 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#28 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#29 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#30 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#31 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#32 {main}
+Additional Information:
+
+2019-10-06 17:46:31 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'id' => 'model'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '34818'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/model'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/gii/model'
+    'PHP_SELF' => '/index.php/gii/model'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php/gii'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570383991.5472
+    'REQUEST_TIME' => 1570383991
+]
+2019-10-06 17:46:43 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php:698
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(698): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(624): yii\db\Connection->createPdoInstance()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1015): yii\db\Connection->open()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1002): yii\db\Connection->getMasterPdo()
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(253): yii\db\Connection->getSlavePdo()
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1153): yii\db\Command->prepare(true)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(442): yii\db\Command->queryInternal('fetchAll', 7)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/mysql/Schema.php(114): yii\db\Command->queryColumn()
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php(236): yii\db\mysql\Schema->findTableNames('')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/Generator.php(171): yii\db\Schema->getTableNames()
+#10 [internal function]: yii\gii\generators\model\Generator->yii\gii\generators\model\{closure}()
+#11 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/components/ActiveField.php(46): call_user_func(Object(Closure))
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\gii\components\ActiveField->init()
+#13 [internal function]: yii\base\BaseObject->__construct(Array)
+#14 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(384): ReflectionClass->newInstanceArgs(Array)
+#15 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\gii\\compone...', Array, Array)
+#16 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\gii\\compone...', Array, Array)
+#17 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/widgets/ActiveForm.php(334): yii\BaseYii::createObject(Array)
+#18 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/form.php(9): yii\widgets\ActiveForm->field(Object(yii\gii\generators\model\Generator), 'tableName')
+#19 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#20 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#21 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/views/default/view.php(43): yii\base\View->renderFile('/home/luiz/dev/...', Array)
+#22 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#23 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#24 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/luiz/dev/...', Array, Object(yii\gii\controllers\DefaultController))
+#25 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->render('view', Array, Object(yii\gii\controllers\DefaultController))
+#26 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(72): yii\base\Controller->render('view', Array)
+#27 [internal function]: yii\gii\controllers\DefaultController->actionView('model')
+#28 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#29 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#30 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#31 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#32 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#33 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#34 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [2002] No such file or directory in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php:635
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1015): yii\db\Connection->open()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1002): yii\db\Connection->getMasterPdo()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(253): yii\db\Connection->getSlavePdo()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1153): yii\db\Command->prepare(true)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(442): yii\db\Command->queryInternal('fetchAll', 7)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/mysql/Schema.php(114): yii\db\Command->queryColumn()
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php(236): yii\db\mysql\Schema->findTableNames('')
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/Generator.php(171): yii\db\Schema->getTableNames()
+#8 [internal function]: yii\gii\generators\model\Generator->yii\gii\generators\model\{closure}()
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/components/ActiveField.php(46): call_user_func(Object(Closure))
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\gii\components\ActiveField->init()
+#11 [internal function]: yii\base\BaseObject->__construct(Array)
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(384): ReflectionClass->newInstanceArgs(Array)
+#13 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\gii\\compone...', Array, Array)
+#14 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\gii\\compone...', Array, Array)
+#15 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/widgets/ActiveForm.php(334): yii\BaseYii::createObject(Array)
+#16 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/form.php(9): yii\widgets\ActiveForm->field(Object(yii\gii\generators\model\Generator), 'tableName')
+#17 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#18 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#19 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/views/default/view.php(43): yii\base\View->renderFile('/home/luiz/dev/...', Array)
+#20 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#21 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#22 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/luiz/dev/...', Array, Object(yii\gii\controllers\DefaultController))
+#23 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->render('view', Array, Object(yii\gii\controllers\DefaultController))
+#24 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(72): yii\base\Controller->render('view', Array)
+#25 [internal function]: yii\gii\controllers\DefaultController->actionView('model')
+#26 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#27 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#28 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#29 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#30 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#31 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#32 {main}
+Additional Information:
+
+2019-10-06 17:46:43 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'id' => 'model'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '34842'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/model'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/gii/model'
+    'PHP_SELF' => '/index.php/gii/model'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php/gii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570384003.2317
+    'REQUEST_TIME' => 1570384003
+]
+2019-10-06 17:46:45 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\db\Exception] PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php:698
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(698): PDO->__construct('mysql:host=loca...', 'root', '', NULL)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(624): yii\db\Connection->createPdoInstance()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1015): yii\db\Connection->open()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1002): yii\db\Connection->getMasterPdo()
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(253): yii\db\Connection->getSlavePdo()
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1153): yii\db\Command->prepare(true)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(442): yii\db\Command->queryInternal('fetchAll', 7)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/mysql/Schema.php(114): yii\db\Command->queryColumn()
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php(236): yii\db\mysql\Schema->findTableNames('')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/Generator.php(171): yii\db\Schema->getTableNames()
+#10 [internal function]: yii\gii\generators\model\Generator->yii\gii\generators\model\{closure}()
+#11 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/components/ActiveField.php(46): call_user_func(Object(Closure))
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\gii\components\ActiveField->init()
+#13 [internal function]: yii\base\BaseObject->__construct(Array)
+#14 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(384): ReflectionClass->newInstanceArgs(Array)
+#15 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\gii\\compone...', Array, Array)
+#16 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\gii\\compone...', Array, Array)
+#17 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/widgets/ActiveForm.php(334): yii\BaseYii::createObject(Array)
+#18 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/form.php(9): yii\widgets\ActiveForm->field(Object(yii\gii\generators\model\Generator), 'tableName')
+#19 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#20 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#21 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/views/default/view.php(43): yii\base\View->renderFile('/home/luiz/dev/...', Array)
+#22 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#23 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#24 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/luiz/dev/...', Array, Object(yii\gii\controllers\DefaultController))
+#25 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->render('view', Array, Object(yii\gii\controllers\DefaultController))
+#26 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(72): yii\base\Controller->render('view', Array)
+#27 [internal function]: yii\gii\controllers\DefaultController->actionView('model')
+#28 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#29 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#30 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#31 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#32 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#33 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#34 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000] [2002] No such file or directory in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php:635
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1015): yii\db\Connection->open()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Connection.php(1002): yii\db\Connection->getMasterPdo()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(253): yii\db\Connection->getSlavePdo()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1153): yii\db\Command->prepare(true)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(442): yii\db\Command->queryInternal('fetchAll', 7)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/mysql/Schema.php(114): yii\db\Command->queryColumn()
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php(236): yii\db\mysql\Schema->findTableNames('')
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/Generator.php(171): yii\db\Schema->getTableNames()
+#8 [internal function]: yii\gii\generators\model\Generator->yii\gii\generators\model\{closure}()
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/components/ActiveField.php(46): call_user_func(Object(Closure))
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\gii\components\ActiveField->init()
+#11 [internal function]: yii\base\BaseObject->__construct(Array)
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(384): ReflectionClass->newInstanceArgs(Array)
+#13 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('yii\\gii\\compone...', Array, Array)
+#14 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(349): yii\di\Container->get('yii\\gii\\compone...', Array, Array)
+#15 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/widgets/ActiveForm.php(334): yii\BaseYii::createObject(Array)
+#16 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/generators/model/form.php(9): yii\widgets\ActiveForm->field(Object(yii\gii\generators\model\Generator), 'tableName')
+#17 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#18 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#19 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/views/default/view.php(43): yii\base\View->renderFile('/home/luiz/dev/...', Array)
+#20 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(348): require('/home/luiz/dev/...')
+#21 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile('/home/luiz/dev/...', '[<span class="s...')
+#22 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile('/home/luiz/dev/...', Array, Object(yii\gii\controllers\DefaultController))
+#23 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(386): yii\base\View->render('view', Array, Object(yii\gii\controllers\DefaultController))
+#24 /home/luiz/dev/devNinja/vendor/yiisoft/yii2-gii/src/controllers/DefaultController.php(72): yii\base\Controller->render('view', Array)
+#25 [internal function]: yii\gii\controllers\DefaultController->actionView('model')
+#26 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#27 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#28 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('view', Array)
+#29 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('gii/default/vie...', Array)
+#30 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#31 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#32 {main}
+Additional Information:
+
+2019-10-06 17:46:45 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'id' => 'model'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '34846'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/gii/model'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/gii/model'
+    'PHP_SELF' => '/index.php/gii/model'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php/gii'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'REQUEST_TIME_FLOAT' => 1570384005.341
+    'REQUEST_TIME' => 1570384005
+]
+2019-10-06 19:07:22 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: customers/create-student in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('create-student', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-06 19:07:22 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][info][application] $_GET = [
+    'r' => 'customers/create-student'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '35418'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-student'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-student'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '11637c08-0758-cffc-b762-d7e8064f670e'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7'
+    'REQUEST_TIME_FLOAT' => 1570388842.5934
+    'REQUEST_TIME' => 1570388842
+]
+2019-10-06 19:20:32 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined index: id in /home/luiz/dev/devNinja/controllers/CustomersController.php:47
+Stack trace:
+#0 /home/luiz/dev/devNinja/controllers/CustomersController.php(47): yii\base\ErrorHandler->handleError(8, 'Undefined index...', '/home/luiz/dev/...', 47, Array)
+#1 [internal function]: app\controllers\CustomersController->actionUpdateCustomers()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update-customer...', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/updat...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-06 19:20:32 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][info][application] $_GET = [
+    'r' => 'customers/update-customers'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'e0h0seu278j88ktnr1ne28v8o4'
+    '_csrf' => 'b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '35568'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/update-customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/update-customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '1b860a38-c4ca-0363-46f9-e7767b864e67'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7'
+    'HTTP_COOKIE' => 'PHPSESSID=e0h0seu278j88ktnr1ne28v8o4; _csrf=b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1570389632.5406
+    'REQUEST_TIME' => 1570389632
+]
+2019-10-06 19:21:43 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined index: id in /home/luiz/dev/devNinja/controllers/CustomersController.php:47
+Stack trace:
+#0 /home/luiz/dev/devNinja/controllers/CustomersController.php(47): yii\base\ErrorHandler->handleError(8, 'Undefined index...', '/home/luiz/dev/...', 47, Array)
+#1 [internal function]: app\controllers\CustomersController->actionUpdateCustomers()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update-customer...', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/updat...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-06 19:21:43 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][info][application] $_GET = [
+    'r' => 'customers/update-customers'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'e0h0seu278j88ktnr1ne28v8o4'
+    '_csrf' => 'b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '35572'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/update-customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/update-customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '22069516-9361-977e-f64a-6b66141bf4bc'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7'
+    'HTTP_COOKIE' => 'PHPSESSID=e0h0seu278j88ktnr1ne28v8o4; _csrf=b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1570389703.2314
+    'REQUEST_TIME' => 1570389703
+]
+2019-10-06 20:24:05 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('create-customer...', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-06 20:24:05 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'e0h0seu278j88ktnr1ne28v8o4'
+    '_csrf' => 'b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36410'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php/customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'PHP_SELF' => '/index.php/customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '91077dd6-e207-3895-810d-e475981d0513'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7'
+    'HTTP_COOKIE' => 'PHPSESSID=e0h0seu278j88ktnr1ne28v8o4; _csrf=b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1570393445.6654
+    'REQUEST_TIME' => 1570393445
+]
+2019-10-06 20:24:31 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][error][yii\web\HttpException:400] yii\web\BadRequestHttpException: Unable to verify your data submission. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Controller.php:166
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(155): yii\web\Controller->beforeAction(Object(yii\base\InlineAction))
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('', Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#4 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#5 {main}
+2019-10-06 20:24:31 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][info][application] $_GET = [
+    'r' => 'customers/create-customers'
+    'name' => 'luiz'
+    'cpf' => '06578956964'
+    'email' => 'leesonego@gmail.com'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'e0h0seu278j88ktnr1ne28v8o4'
+    '_csrf' => 'b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36420'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CONTENT_LENGTH' => '0'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => 'e6a3a046-c047-c893-ceda-052f7cbc4b97'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7'
+    'HTTP_COOKIE' => 'PHPSESSID=e0h0seu278j88ktnr1ne28v8o4; _csrf=b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1570393471.7353
+    'REQUEST_TIME' => 1570393471
+]
+2019-10-06 20:58:42 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('create-customer...')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-06 20:58:42 [127.0.0.1][-][e0h0seu278j88ktnr1ne28v8o4][info][application] $_GET = [
+    'r' => 'customers/create-customers'
+    'name' => 'luiz'
+    'cpf' => '06578956964'
+    'email' => 'leesonego@gmail.com'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'e0h0seu278j88ktnr1ne28v8o4'
+    '_csrf' => 'b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36870'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '0'
+    'HTTP_CONTENT_LENGTH' => '0'
+    'HTTP_SEC_FETCH_MODE' => 'cors'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
+    'HTTP_POSTMAN_TOKEN' => '17a023f2-f69f-e44e-dff4-b4e97508a1c3'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_SEC_FETCH_SITE' => 'cross-site'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,pt-BR;q=0.8,pt;q=0.7'
+    'HTTP_COOKIE' => 'PHPSESSID=e0h0seu278j88ktnr1ne28v8o4; _csrf=b10f09f6816075f33cdf92505367d69642d09b563d849ccde2ed07b57cc2e0fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22moqjM_mf3UpLcYbtVkgSzI4NNM2kzMfH%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1570395522.8762
+    'REQUEST_TIME' => 1570395522
+]
+2019-10-06 20:59:09 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('create-customer...')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-06 20:59:09 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'r' => 'customers/create-customers'
+    'name' => 'luiz'
+    'cpf' => '06578956964'
+    'email' => 'leesonego@gmail.com'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36884'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570395549.4435
+    'REQUEST_TIME' => 1570395549
+]
+2019-10-06 20:59:15 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('create-customer...')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-06 20:59:15 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'r' => 'customers/create-customers'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36890'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570395555.8147
+    'REQUEST_TIME' => 1570395555
+]
+2019-10-06 20:59:18 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('create-customer...')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-06 20:59:18 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'r' => 'customers/create-customers'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36894'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-customers'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570395558.5532
+    'REQUEST_TIME' => 1570395558
+]
+2019-10-06 20:59:20 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][error][yii\base\InvalidConfigException] yii\base\InvalidConfigException: The "modelClass" property must be set. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/rest/ActiveController.php:65
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/BaseObject.php(109): yii\rest\ActiveController->init()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(86): yii\base\BaseObject->__construct(Array)
+#2 [internal function]: yii\base\Controller->__construct('customers', Object(yii\web\Application), Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(376): ReflectionClass->newInstanceArgs(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/di/Container.php(156): yii\di\Container->build('app\\controllers...', Array, Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/BaseYii.php(345): yii\di\Container->get('app\\controllers...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(642): yii\BaseYii::createObject('app\\controllers...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(596): yii\base\Module->createControllerByID('customers')
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(522): yii\base\Module->createController('create-customer...')
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/creat...', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#12 {main}
+2019-10-06 20:59:20 [127.0.0.1][-][8l4e52v0q7hoautmim0ihbjrsk][info][application] $_GET = [
+    'r' => 'customers/create-customers'
+    'name' => 'luiz'
+    'cpf' => '06578956964'
+    'email' => 'leesonego@gmail.com'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => '8l4e52v0q7hoautmim0ihbjrsk'
+    '_csrf' => '404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"OoSi8tXmbP4esBJWk1mViS-1ApF1krVe\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '36896'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=customers/create-customers&name=luiz&cpf=06578956964&email=leesonego@gmail.com'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:69.0) Gecko/20100101 Firefox/69.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_COOKIE' => 'PHPSESSID=8l4e52v0q7hoautmim0ihbjrsk; _csrf=404eec585950b366d5f7ab89b10ed2031c2634a2250aea98e6c1dac3234df372a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22OoSi8tXmbP4esBJWk1mViS-1ApF1krVe%22%3B%7D'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'REQUEST_TIME_FLOAT' => 1570395560.0937
+    'REQUEST_TIME' => 1570395560
+]
+2019-10-07 00:12:21 [-][-][-][error][yii\console\UnknownCommandException] yii\base\InvalidRouteException: Unable to resolve the request "migration/create". in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('migration/creat...', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('migration/creat...', Array)
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#3 /home/luiz/dev/devNinja/yii(20): yii\base\Application->run()
+#4 {main}
+
+Next yii\console\UnknownCommandException: Unknown command "migration/create". in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php:183
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('migration/creat...', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#2 /home/luiz/dev/devNinja/yii(20): yii\base\Application->run()
+#3 {main}
+2019-10-07 00:12:21 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'COLORFGBG' => '15;0'
+    'COLORTERM' => 'truecolor'
+    'DBUS_SESSION_BUS_ADDRESS' => 'unix:abstract=/tmp/dbus-srWCe0RYDq,guid=3e517baeb55a78120a17eac15d9a74ba'
+    'DEFAULTS_PATH' => '/usr/share/gconf//usr/share/xsessions/plasma.default.path'
+    'DESKTOP_SESSION' => '/usr/share/xsessions/plasma'
+    'DISPLAY' => ':0'
+    'GPG_AGENT_INFO' => '/run/user/1000/gnupg/S.gpg-agent:0:1'
+    'GS_LIB' => '/home/luiz/.fonts'
+    'GTK2_RC_FILES' => '/etc/gtk-2.0/gtkrc:/home/luiz/.gtkrc-2.0:/home/luiz/.config/gtkrc-2.0'
+    'GTK_RC_FILES' => '/etc/gtk/gtkrc:/home/luiz/.gtkrc:/home/luiz/.config/gtkrc'
+    'HOME' => '/home/luiz'
+    'KDE_FULL_SESSION' => 'true'
+    'KDE_SESSION_UID' => '1000'
+    'KDE_SESSION_VERSION' => '5'
+    'KONSOLE_DBUS_SERVICE' => ':1.28'
+    'KONSOLE_DBUS_SESSION' => '/Sessions/2'
+    'KONSOLE_PROFILE_NAME' => 'Default'
+    'KONSOLE_VERSION' => '190801'
+    'LANG' => 'en_US.UTF-8'
+    'LANGUAGE' => ''
+    'LC_ADDRESS' => 'pt_BR.UTF-8'
+    'LC_IDENTIFICATION' => 'pt_BR.UTF-8'
+    'LC_MEASUREMENT' => 'pt_BR.UTF-8'
+    'LC_MONETARY' => 'pt_BR.UTF-8'
+    'LC_NAME' => 'pt_BR.UTF-8'
+    'LC_NUMERIC' => 'pt_BR.UTF-8'
+    'LC_PAPER' => 'pt_BR.UTF-8'
+    'LC_TELEPHONE' => 'pt_BR.UTF-8'
+    'LC_TIME' => 'pt_BR.UTF-8'
+    'LOGNAME' => 'luiz'
+    'MANDATORY_PATH' => '/usr/share/gconf//usr/share/xsessions/plasma.mandatory.path'
+    'OLDPWD' => '/home/luiz/dev/devNinja'
+    'PAM_KWALLET5_LOGIN' => '/run/user/1000/kwallet5.socket'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'
+    'PROFILEHOME' => ''
+    'PWD' => '/home/luiz/dev/devNinja'
+    'QT_ACCESSIBILITY' => '1'
+    'QT_AUTO_SCREEN_SCALE_FACTOR' => '0'
+    'SESSION_MANAGER' => 'local/Luiz-Sonego:@/tmp/.ICE-unix/1326,unix/Luiz-Sonego:/tmp/.ICE-unix/1326'
+    'SHELL' => '/usr/bin/zsh'
+    'SHELL_SESSION_ID' => '813db14e662342ceb323615099dbd4b2'
+    'SHLVL' => '1'
+    'SSH_AGENT_PID' => '1268'
+    'SSH_AUTH_SOCK' => '/tmp/ssh-lwg5zOPgd1UX/agent.1226'
+    'TERM' => 'xterm-256color'
+    'USER' => 'luiz'
+    'WINDOWID' => '54525959'
+    'XAUTHORITY' => '/tmp/xauth-1000-_0'
+    'XCURSOR_SIZE' => '0'
+    'XCURSOR_THEME' => 'breeze_cursors'
+    'XDG_CONFIG_DIRS' => '/etc/xdg/xdg-/usr/share/xsessions/plasma:/etc/xdg'
+    'XDG_CURRENT_DESKTOP' => 'KDE'
+    'XDG_DATA_DIRS' => '/usr/share//usr/share/xsessions/plasma:/home/luiz/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share'
+    'XDG_RUNTIME_DIR' => '/run/user/1000'
+    'XDG_SEAT' => 'seat0'
+    'XDG_SEAT_PATH' => '/org/freedesktop/DisplayManager/Seat0'
+    'XDG_SESSION_CLASS' => 'user'
+    'XDG_SESSION_DESKTOP' => 'KDE'
+    'XDG_SESSION_ID' => '3'
+    'XDG_SESSION_PATH' => '/org/freedesktop/DisplayManager/Session1'
+    'XDG_SESSION_TYPE' => 'x11'
+    'XDG_VTNR' => '1'
+    '_' => '/usr/bin/php'
+    'ZSH' => '/home/luiz/.oh-my-zsh'
+    'PAGER' => 'less'
+    'LESS' => '-R'
+    'LSCOLORS' => 'Gxfxcxdxbxegedabagacad'
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1570407141.0916
+    'REQUEST_TIME' => 1570407141
+    'argv' => [
+        0 => 'yii'
+        1 => 'migration/create'
+        2 => 'customers'
+    ]
+    'argc' => 3
+]
+2019-10-07 00:36:30 [-][-][-][error][yii\db\Exception] PDOException: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'customers' already exists in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php:1290
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1290): PDOStatement->execute()
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1091): yii\db\Command->internalExecute('CREATE TABLE `c...')
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Migration.php(323): yii\db\Command->execute()
+#3 /home/luiz/dev/devNinja/migrations/m191007_001233_customers.php(38): yii\db\Migration->createTable('customers', Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(724): m191007_001233_customers->up()
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(200): yii\console\controllers\BaseMigrateController->migrateUp('m191007_001233_...')
+#6 [internal function]: yii\console\controllers\BaseMigrateController->actionUp(0)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Controller.php(164): yii\base\Controller->runAction('', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\console\Controller->runAction('', Array)
+#11 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('migrate', Array)
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('migrate', Array)
+#13 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#14 /home/luiz/dev/devNinja/yii(20): yii\base\Application->run()
+#15 {main}
+
+Next yii\db\Exception: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'customers' already exists
+The SQL being executed was: CREATE TABLE `customers` (
+	`id` int(11) NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	`name` varchar(30) NOT NULL,
+	`cpf` varchar(15) NOT NULL,
+	`email` varchar(45) NOT NULL,
+	`created_at` timestamp,
+	`updated_at` timestamp
+) in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Schema.php:674
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1295): yii\db\Schema->convertException(Object(PDOException), 'CREATE TABLE `c...')
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Command.php(1091): yii\db\Command->internalExecute('CREATE TABLE `c...')
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/db/Migration.php(323): yii\db\Command->execute()
+#3 /home/luiz/dev/devNinja/migrations/m191007_001233_customers.php(38): yii\db\Migration->createTable('customers', Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(724): m191007_001233_customers->up()
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/controllers/BaseMigrateController.php(200): yii\console\controllers\BaseMigrateController->migrateUp('m191007_001233_...')
+#6 [internal function]: yii\console\controllers\BaseMigrateController->actionUp(0)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#8 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#9 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Controller.php(164): yii\base\Controller->runAction('', Array)
+#10 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\console\Controller->runAction('', Array)
+#11 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(180): yii\base\Module->runAction('migrate', Array)
+#12 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/console/Application.php(147): yii\console\Application->runAction('migrate', Array)
+#13 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\console\Application->handleRequest(Object(yii\console\Request))
+#14 /home/luiz/dev/devNinja/yii(20): yii\base\Application->run()
+#15 {main}
+Additional Information:
+Array
+(
+    [0] => 42S01
+    [1] => 1050
+    [2] => Table 'customers' already exists
+)
+
+2019-10-07 00:36:19 [-][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'COLORFGBG' => '15;0'
+    'COLORTERM' => 'truecolor'
+    'DBUS_SESSION_BUS_ADDRESS' => 'unix:abstract=/tmp/dbus-srWCe0RYDq,guid=3e517baeb55a78120a17eac15d9a74ba'
+    'DEFAULTS_PATH' => '/usr/share/gconf//usr/share/xsessions/plasma.default.path'
+    'DESKTOP_SESSION' => '/usr/share/xsessions/plasma'
+    'DISPLAY' => ':0'
+    'GPG_AGENT_INFO' => '/run/user/1000/gnupg/S.gpg-agent:0:1'
+    'GS_LIB' => '/home/luiz/.fonts'
+    'GTK2_RC_FILES' => '/etc/gtk-2.0/gtkrc:/home/luiz/.gtkrc-2.0:/home/luiz/.config/gtkrc-2.0'
+    'GTK_RC_FILES' => '/etc/gtk/gtkrc:/home/luiz/.gtkrc:/home/luiz/.config/gtkrc'
+    'HOME' => '/home/luiz'
+    'KDE_FULL_SESSION' => 'true'
+    'KDE_SESSION_UID' => '1000'
+    'KDE_SESSION_VERSION' => '5'
+    'KONSOLE_DBUS_SERVICE' => ':1.28'
+    'KONSOLE_DBUS_SESSION' => '/Sessions/2'
+    'KONSOLE_PROFILE_NAME' => 'Default'
+    'KONSOLE_VERSION' => '190801'
+    'LANG' => 'en_US.UTF-8'
+    'LANGUAGE' => ''
+    'LC_ADDRESS' => 'pt_BR.UTF-8'
+    'LC_IDENTIFICATION' => 'pt_BR.UTF-8'
+    'LC_MEASUREMENT' => 'pt_BR.UTF-8'
+    'LC_MONETARY' => 'pt_BR.UTF-8'
+    'LC_NAME' => 'pt_BR.UTF-8'
+    'LC_NUMERIC' => 'pt_BR.UTF-8'
+    'LC_PAPER' => 'pt_BR.UTF-8'
+    'LC_TELEPHONE' => 'pt_BR.UTF-8'
+    'LC_TIME' => 'pt_BR.UTF-8'
+    'LOGNAME' => 'luiz'
+    'MANDATORY_PATH' => '/usr/share/gconf//usr/share/xsessions/plasma.mandatory.path'
+    'OLDPWD' => '/home/luiz/dev/devNinja'
+    'PAM_KWALLET5_LOGIN' => '/run/user/1000/kwallet5.socket'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games'
+    'PROFILEHOME' => ''
+    'PWD' => '/home/luiz/dev/devNinja'
+    'QT_ACCESSIBILITY' => '1'
+    'QT_AUTO_SCREEN_SCALE_FACTOR' => '0'
+    'SESSION_MANAGER' => 'local/Luiz-Sonego:@/tmp/.ICE-unix/1326,unix/Luiz-Sonego:/tmp/.ICE-unix/1326'
+    'SHELL' => '/usr/bin/zsh'
+    'SHELL_SESSION_ID' => '813db14e662342ceb323615099dbd4b2'
+    'SHLVL' => '1'
+    'SSH_AGENT_PID' => '1268'
+    'SSH_AUTH_SOCK' => '/tmp/ssh-lwg5zOPgd1UX/agent.1226'
+    'TERM' => 'xterm-256color'
+    'USER' => 'luiz'
+    'WINDOWID' => '54525959'
+    'XAUTHORITY' => '/tmp/xauth-1000-_0'
+    'XCURSOR_SIZE' => '0'
+    'XCURSOR_THEME' => 'breeze_cursors'
+    'XDG_CONFIG_DIRS' => '/etc/xdg/xdg-/usr/share/xsessions/plasma:/etc/xdg'
+    'XDG_CURRENT_DESKTOP' => 'KDE'
+    'XDG_DATA_DIRS' => '/usr/share//usr/share/xsessions/plasma:/home/luiz/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share'
+    'XDG_RUNTIME_DIR' => '/run/user/1000'
+    'XDG_SEAT' => 'seat0'
+    'XDG_SEAT_PATH' => '/org/freedesktop/DisplayManager/Seat0'
+    'XDG_SESSION_CLASS' => 'user'
+    'XDG_SESSION_DESKTOP' => 'KDE'
+    'XDG_SESSION_ID' => '3'
+    'XDG_SESSION_PATH' => '/org/freedesktop/DisplayManager/Session1'
+    'XDG_SESSION_TYPE' => 'x11'
+    'XDG_VTNR' => '1'
+    '_' => '/usr/bin/php'
+    'ZSH' => '/home/luiz/.oh-my-zsh'
+    'PAGER' => 'less'
+    'LESS' => '-R'
+    'LSCOLORS' => 'Gxfxcxdxbxegedabagacad'
+    'LS_COLORS' => 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'
+    'PHP_SELF' => 'yii'
+    'SCRIPT_NAME' => 'yii'
+    'SCRIPT_FILENAME' => 'yii'
+    'PATH_TRANSLATED' => 'yii'
+    'DOCUMENT_ROOT' => ''
+    'REQUEST_TIME_FLOAT' => 1570408579.5422
+    'REQUEST_TIME' => 1570408579
+    'argv' => [
+        0 => 'yii'
+        1 => 'migrate'
+    ]
+    'argc' => 2
+]
+2019-10-07 00:37:51 [127.0.0.1][-][-][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined index: id in /home/luiz/dev/devNinja/controllers/CustomersController.php:48
+Stack trace:
+#0 /home/luiz/dev/devNinja/controllers/CustomersController.php(48): yii\base\ErrorHandler->handleError(8, 'Undefined index...', '/home/luiz/dev/...', 48, Array)
+#1 [internal function]: app\controllers\CustomersController->actionUpdateCustomers()
+#2 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update-customer...', Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/updat...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#7 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#8 {main}
+2019-10-07 00:37:51 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48784'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers/update-customers'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers/update-customers'
+    'PHP_SELF' => '/index.php/customers/update-customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'curl/7.58.0'
+    'HTTP_ACCEPT' => 'application/json'
+    'CONTENT_TYPE' => 'application/json'
+    'HTTP_CONTENT_TYPE' => 'application/json'
+    'CONTENT_LENGTH' => '69'
+    'HTTP_CONTENT_LENGTH' => '69'
+    'REQUEST_TIME_FLOAT' => 1570408671.2831
+    'REQUEST_TIME' => 1570408671
+]
+2019-10-07 00:38:06 [127.0.0.1][-][71n44is9epo79kob4mpqru865t][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "customers/update-customers/1". in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/updat...', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-07 00:38:06 [127.0.0.1][-][71n44is9epo79kob4mpqru865t][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48788'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers/update-customers/1'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers/update-customers/1'
+    'PHP_SELF' => '/index.php/customers/update-customers/1'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'curl/7.58.0'
+    'HTTP_ACCEPT' => 'application/json'
+    'CONTENT_TYPE' => 'application/json'
+    'HTTP_CONTENT_TYPE' => 'application/json'
+    'CONTENT_LENGTH' => '69'
+    'HTTP_CONTENT_LENGTH' => '69'
+    'REQUEST_TIME_FLOAT' => 1570408686.3165
+    'REQUEST_TIME' => 1570408686
+]
+2019-10-07 00:43:39 [127.0.0.1][-][ebd9urvlggnrub91kgtleqv58b][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "customers/update-customers/1". in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/updat...', Array)
+#1 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2019-10-07 00:43:39 [127.0.0.1][-][ebd9urvlggnrub91kgtleqv58b][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48902'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers/update-customers/1'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers/update-customers/1'
+    'PHP_SELF' => '/index.php/customers/update-customers/1'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'curl/7.58.0'
+    'HTTP_ACCEPT' => 'application/json'
+    'CONTENT_TYPE' => 'application/json'
+    'HTTP_CONTENT_TYPE' => 'application/json'
+    'CONTENT_LENGTH' => '69'
+    'HTTP_CONTENT_LENGTH' => '69'
+    'REQUEST_TIME_FLOAT' => 1570409019.3828
+    'REQUEST_TIME' => 1570409019
+]
+2019-10-07 00:44:56 [127.0.0.1][-][-][error][yii\base\ErrorException:2] yii\base\ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/luiz/dev/devNinja/controllers/CustomersController.php:49
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleError(2, 'count(): Parame...', '/home/luiz/dev/...', 49, Array)
+#1 /home/luiz/dev/devNinja/controllers/CustomersController.php(49): count(Object(app\models\Customers))
+#2 [internal function]: app\controllers\CustomersController->actionUpdateCustomers()
+#3 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array(Array, Array)
+#4 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#5 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('update-customer...', Array)
+#6 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('customers/updat...', Array)
+#7 /home/luiz/dev/devNinja/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#8 /home/luiz/dev/devNinja/web/index.php(12): yii\base\Application->run()
+#9 {main}
+2019-10-07 00:44:56 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/luiz/dev/devNinja/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '48904'
+    'SERVER_SOFTWARE' => 'PHP 7.2.19-0ubuntu0.18.04.2 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/customers/update-customers'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/luiz/dev/devNinja/web/index.php'
+    'PATH_INFO' => '/customers/update-customers'
+    'PHP_SELF' => '/index.php/customers/update-customers'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_USER_AGENT' => 'curl/7.58.0'
+    'HTTP_ACCEPT' => 'application/json'
+    'CONTENT_TYPE' => 'application/json'
+    'HTTP_CONTENT_TYPE' => 'application/json'
+    'CONTENT_LENGTH' => '79'
+    'HTTP_CONTENT_LENGTH' => '79'
+    'REQUEST_TIME_FLOAT' => 1570409096.8281
+    'REQUEST_TIME' => 1570409096
+]
